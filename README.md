@@ -1,5 +1,5 @@
 # medical-insurance-project
-Hi, my name is Tahj Gordon. I am a data analyst. Welcome to my first project. 
+Hi, my name is Tahj Gordon. I am your next data analyst. Welcome to my first data project. 
 In this project, I analyze an insurance dataset from Kaggle. You can find the dataset here - https://www.kaggle.com/datasets/thedevastator/prediction-of-insurance-charges-using-age-gender
 OR you can view the contents of the file by opening the "insurance.csv" file.
 
