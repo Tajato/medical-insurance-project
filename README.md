@@ -7,6 +7,8 @@ To go straight to my project and get more information, like the introduction, pr
 my project directly. I ended up putting everything in that one notebook because I was not anticipating creating a readme file. But what would be in the readme file, you can
 find all that information inside the "insuranceproject.ipynb" file. The Jupyter notebook is neat and allows notes and all that, so I just decided to put all the information in that file.
 
+Through my analysis, I found that:
+
 1. The average age of the population in the dataset is 39 years old. The average insurance charge is 13,270 and the average BMI is 30.6.
 
 2. Majority of the population is from the southeast region.
